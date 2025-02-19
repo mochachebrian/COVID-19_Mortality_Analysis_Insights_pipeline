@@ -20,6 +20,7 @@ Data Quality Checks: Validate data using Soda or Great Expectations.
 Visualization: Build interactive dashboards with Metabase or Tableau.
 
 ##Tech Stack
+
 Storage: Google Cloud Storage / Amazon S3
 
 Processing: Apache Spark / Pandas
